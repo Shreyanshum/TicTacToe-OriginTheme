@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="welcome">Game has started!</string>
+    <string name="resetButton">Click to Reset</string>
+    <string name="newGameTurn">X\'s Turn</string>
+</resources>

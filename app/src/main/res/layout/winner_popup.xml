@@ -2,7 +2,7 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:background="#FA06629F"
+    android:background="#000000"
     android:orientation="vertical">
 
     <ImageView
@@ -14,14 +14,14 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="#0B65A0">
+        android:background="#000000">
 
         <TextView
             android:id="@+id/winnerdeclare"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="11dp"
-            android:fontFamily="@font/poppins_semibold"
+            android:fontFamily="sans-serif"
             android:gravity="center"
             android:text="Winner"
             android:textColor="@color/white"
@@ -34,11 +34,11 @@
         android:id="@+id/btnOkay"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="#2884BF"
+        android:background="#FF0000"
         android:fontFamily="@font/poppins_semibold"
         android:text="Okay"
         android:textColor="@color/white"
-        android:textSize="20sp">
+        android:textSize="24sp">
 
     </Button>
 
